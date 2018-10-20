@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/jfreechart/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/apache-poi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-codec-1.10-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-codec-1.10-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-codec-1.10-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-codec-1.10-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-lang3-3.5-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/dom4j-1.6.1 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/jxl-2.6.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-3.9-20121203 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-3.9-20121203 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-3.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-schemas-3.9-20121203 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/xmlbeans-2.3.0 (1).jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Matheus/arquivos em .jar/apache poi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Desktop/Biblioteca APACHEpoi/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="C:/Users/USER/Downloads/jfreechart-1.0.19/jfreechart-1.0.19/jfreechart-1.0.19-demo.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
